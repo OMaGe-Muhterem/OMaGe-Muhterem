@@ -4,8 +4,8 @@
     <img width="50%" align="right" alt="Muhterem" src="https://github-readme-stats.vercel.app/api?username=OMaGe-Muhterem&show_icons=true&hide_border=true"/>
     
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='30' height='30'>](https://github.com/OMaGe-Muhterem)
-[![Github]](https://github.com/muhterem) &nbsp; &nbsp;
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) &nbsp; &nbsp; 
+[![Github]](https://github.com/OMaGe-Muhterem) &nbsp; &nbsp;
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) &nbsp; &nbsp; 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/) </p>
 
 
