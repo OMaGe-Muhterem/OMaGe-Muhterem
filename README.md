@@ -36,18 +36,8 @@ Here are some ideas to get you started:
   <samp>
     <p align="center">
       <br/>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="Muhterem" height="30"/></a>
-      <a href="https://mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Muhterem" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="Muhterem" height="30"/></a>   
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Muhterem" height="30"/></a>
+<a href="[https://www.hackerrank.com/OvinduWijethunge](https://www.hackerrank.com/muhteremgul3442)" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: muhteremgul3442@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
     </p>
   </samp>
 </div>
