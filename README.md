@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/) </p>
 
 
-## Heey!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
+## Heey!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A0172A&size=24&lines=Profilime+ait+ayrıntılar+için;++>++simgelerini+tıkla+...) 
 
