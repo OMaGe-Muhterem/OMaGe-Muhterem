@@ -1,16 +1,3 @@
-### Hi there 👋
-**OMaGe-Muhterem/OMaGe-Muhterem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Python and Data Science
-- 🌱 I’m currently learning Pandas
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Math and Python
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=10872A&size=30&lines=Merhaba!+Ben+Muhterem+Gül++;Veri+Bilimi+Yolcusu++;Matematik+Öğretmeni++;OMaGe+kitaplarının+yazarı++)
 
 <p>
