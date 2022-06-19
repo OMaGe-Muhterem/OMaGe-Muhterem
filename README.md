@@ -3,7 +3,7 @@
 <p>
     <img width="50%" align="right" alt="Muhterem" src="https://github-readme-stats.vercel.app/api?username=OMaGe-Muhterem&show_icons=true&hide_border=true"/>
     
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='30' height='30'>](https://github.com/Muhterem)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='30' height='30'>](https://github.com/OMaGe-Muhterem)
 [![Github]](https://github.com/muhterem) &nbsp; &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) &nbsp; &nbsp; 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/) </p>
@@ -20,7 +20,7 @@
   <samp>
     <p align="center">
       <br/>
-<a href="[https://www.hackerrank.com/OvinduWijethunge](https://www.hackerrank.com/muhteremgul3442)" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muhteremgul3442" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
  <a href = "mailto: muhteremgul3442@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
     </p>
   </samp>
@@ -35,11 +35,6 @@
   <a href="github.com/OMaGe-Muhterem" target="blank"><img align="center" 
      src="https://badges.pufler.dev/years/OMaGe-Muhterem/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
      alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/OMaGe-Muhterem" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/OMaGe-Muhterem?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
   <a href="github.com/OMaGe-Muhterem" target="blank"><img align="center" 
      src="https://badges.pufler.dev/repos/OMaGe-Muhterem/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
      alt="repos" /></a>  
@@ -50,7 +45,7 @@
 </div>
 </details>
 
-<details> <h4> Diğer Bir Bölüm </h4>
+<details> <h4> PYTHON ile yazılım çok keyifli </h4>
   <summary> </summary>
 <div>
 
